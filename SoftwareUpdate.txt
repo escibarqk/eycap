@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
