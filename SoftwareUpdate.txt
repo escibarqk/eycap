@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
