@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
