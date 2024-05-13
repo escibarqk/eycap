@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
